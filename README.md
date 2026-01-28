@@ -1,3 +1,7 @@
+# Code Source
+[FTCpp](https://github.com/flemmii/FTCpp)
+[Official FTC SDK](https://github.com/FIRST-Tech-Challenge/FtcRobotController)
+
 # What is this?
 
 This is a project that makes it possible to program in C++ in FTC. This is also 100%
